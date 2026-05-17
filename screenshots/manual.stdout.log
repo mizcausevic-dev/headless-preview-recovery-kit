@@ -1,5 +1,0 @@
-
-> headless-preview-recovery-kit@1.0.0 dev
-> tsx watch src/app.ts
-
-Headless Preview Recovery Kit listening on http://127.0.0.1:5183
