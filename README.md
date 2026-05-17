@@ -34,7 +34,7 @@ It focuses on the real headless preview problems teams keep tripping over:
 ## Local development
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\headless-preview-recovery-kit"
+cd headless-preview-recovery-kit
 npm install
 npm run dev
 ```
